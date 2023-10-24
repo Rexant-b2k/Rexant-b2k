@@ -1,6 +1,6 @@
 # 👋 Hey, nice to see you here! 
   
-Welcome to my page. I'm Sergei, backend developer, current living in <img src="https://cdn-icons-png.flaticon.com/512/3909/3909361.png" width="13"/>Porto, Portugal.
+Welcome to my page. I'm Sergei, backend developer, currently living in <img src="https://cdn-icons-png.flaticon.com/512/3909/3909361.png" width="13"/>Porto, Portugal.
 
 ---
 
