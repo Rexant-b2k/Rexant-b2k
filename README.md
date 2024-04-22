@@ -7,7 +7,7 @@ Welcome to my page. I'm Sergei, backend developer, currently living in <img src=
 ### :pilot: About me:
 
 I am a seasoned IT specialist with a diverse and accomplished career spanning over 15 years. My journey in the IT began as a technician, where I provided essential IT support. Over time, I progressed to become a skilled system administrator, managing and maintaining critical systems and infrastructure. Later, I became a head of IT and medical equipment department if medical facility. Finally, I decided to make transitioning from IT operations to a developer role, which will bring me new opportunities and challenges. Being always interested in development, I found out that new technologies coupled with my experience and strong desire to learn development, allows me to change my professional sphere. I have been continuosly studing python programming and web development, integration, intersystem communicationd and deploying services. After completing trainings, I am ready to face new challenges. I possess a solid IT background and have unique combination of skills and expertise, and eager to use it to contribute effectively as a developer.  
-_Why the pilot symbol is here? Aside from my studies and work, I prefer to be in motion: I have already got sailboat skipper (captain) license and in progress of obtaining pilot license_
+_Why the plane symbol is here? Aside from my studies and work, I prefer to be in motion: I have already got sailboat skipper (captain) license and in progress of obtaining pilot license_
 
 
 ---
